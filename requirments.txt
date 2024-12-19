@@ -1,15 +1,6 @@
-pandas
-mlflow==2.2.2
-notebook
-numpy
-matplotlib
-python-box==6.0.2
-pyYAML
-tqdm
-ensure==1.0.2
-joblib
-types-pyYAML
 Flask==2.1.0
+numpy
+pandas
 pymongo
 scikit_learn==1.1.1
 gunicorn
