@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aravind9722">
+  <a href="https://github.com/iamkushvanth">
     <img src="https://img.icons8.com/external-flat-wichaiwi/64/undefined/external-bush-fire-climate-change-flat-wichaiwi.png" alt="Logo" width="80" height="80"/> 
   </a>
 
@@ -14,14 +14,14 @@
   <p align="center">
     Machine Learning Project
     <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/iamkushvanth/Algerian_Forest_Fire_End_to_End_ML_Project"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/app.py">View Flask app code</a>
+    <a href="https://github.com/iamkushvanth/Algerian_Forest_Fire_End_to_End_ML_Project/blob/main/app.py">View Flask app code</a>
     ·
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-2%20Model.ipynb"> Model Building</a>
+    <a href="https://github.com/iamkushvanth/Algerian_Forest_Fire_End_to_End_ML_Project/blob/main/notebooks/Ridge_%26_Lasso_Regression.ipynb"> Model Building</a>
     ·
-    <a href="https://github.com/aravind9722/Forest-fire_Prediction/blob/main/Forest%20Fire%20Part-1%20EDA.ipynb">EDA on Forest Fires dataset</a>
+    <a href="https://github.com/iamkushvanth/Algerian_Forest_Fire_End_to_End_ML_Project/blob/main/notebooks/Ridge_%26_Lasso_Regression.ipynb">EDA on Forest Fires dataset</a>
   </p>
 </div>
 
@@ -34,11 +34,6 @@
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
-## Deployed app
-[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
-](https://forest-fire-predictionv1.herokuapp.com/)
-
-[LINK TO HEROKU APP](https://forest-fire-predictionv1.herokuapp.com/)
 
 <!-- GETTING STARTED -->
 ## Introduction
@@ -85,13 +80,6 @@
 * Create a route `/predict` `/predictR` to get user input for Classification and Regression respectively. 
 * Run the flask app with `app.run()` code.
 
-### Heroku Deployment
-* Create new repo in Github and push all the data using `Git`.
-* Install Heroku CLI and login using `heroku login` and setup the app in Heroku Web.
-* Connect with app `heroku git:remote -a appname`
-* Push to Heroku using `git push heroku main`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -106,16 +94,13 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![Tools used | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
 
 
 <!-- CONTACT -->
 ## Contact
-[![Aravind Selvam | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![Aravind Selvam | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![GodWin1100 | GitHub](https://img.shields.io/badge/aravind-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
+[![Kushvanth Sura | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
+[![Kushvanth Sura  | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
+[![iamkushvanth | GitHub](https://img.shields.io/badge/aravind-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -127,17 +112,14 @@
 
 <!-- Tools Used -->
 [PyCharm]: https://code.visualstudio.com/
-[postman]: https://www.postman.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[heroku]: https://www.heroku.com/
-[microsoft_azure]: https://azure.microsoft.com/en-in/features/azure-portal/
 [python]: https://www.python.org/
 [mongodb]: https://www.mongodb.com/
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [sklearn]: https://scikit-learn.org/stable/
 
 <!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/aravind-selvam/
-[reach_gmail]: mailto:aravind9722@gmail.com?subject=Github
-[reach_outlook]: mailto:aravind_selvam@outlook.com
+[reach_linkedin]: https://www.linkedin.com/in/iamkushvanth/
+[reach_gmail]: mailto:kushvanthsura@gmail.com
+[reach_outlook]: mailto:kushvanth.sura12@outlook.com
