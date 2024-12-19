@@ -98,9 +98,9 @@
 
 <!-- CONTACT -->
 ## Contact
-[![Kushvanth Sura | LinkedIn]
-[![Kushvanth Sura  | G Mail]
-[![iamkushvanth | GitHub]
+[![Kushvanth Sura | LinkedIn](https://www.linkedin.com/in/iamkushvanth/)
+[![Kushvanth Sura  | G Mail](kushvanthsura@gmail.com)
+[![iamkushvanth | GitHub](https://github.com/iamkushvanth)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
