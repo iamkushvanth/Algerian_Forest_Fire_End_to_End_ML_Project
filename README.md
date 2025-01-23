@@ -119,7 +119,3 @@
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [sklearn]: https://scikit-learn.org/stable/
 
-<!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/iamkushvanth/
-[reach_gmail]: mailto:kushvanthsura@gmail.com
-[reach_outlook]: mailto:kushvanth.sura12@outlook.com
